@@ -16,6 +16,7 @@ To run this project, you'll need the following:
 3. Run the script by executing the following command in your terminal or command prompt:
 
 ```python timesjobs_scraper.py```
+
 4. The script will retrieve the job details from the specified URL and display them in the console. The job details will include the job publish date, company name, skills needed, and the link to apply for each job listing.
 
 # Note:!!
